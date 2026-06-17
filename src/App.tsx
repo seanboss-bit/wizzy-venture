@@ -5,7 +5,7 @@ import { About } from "./components/About";
 import { Gallery } from "./components/Gallery";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
-import { FloatingWhatsApp } from "./components/FloatingWhatsApp";
+import { FloatingWhatsApp } from "./components/FloatingWhatsapp";
 
 export default function App() {
   return (
