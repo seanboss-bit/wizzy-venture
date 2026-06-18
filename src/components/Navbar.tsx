@@ -10,7 +10,7 @@ const NAV_LINKS = [
 ];
 
 // Digits only, country code first, no + or spaces.
-const WHATSAPP_NUMBER = "4372277180";
+const WHATSAPP_NUMBER = "14372277180";
 const WHATSAPP_MESSAGE =
   "Hi! I'd like to know more about Wizzy Venture Transportation.";
 
